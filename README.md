@@ -7,7 +7,7 @@
 ## 設定方法
 JIS配列キーボード + Google日本語入力IME向けです
 
-1. このリポジトリにある azik_romantable.txt をダウンロードして保存する
+1. このリポジトリにある azik_romantable.txt の [Rawファイル](https://raw.githubusercontent.com/toriwasa/azik-roman-table/main/azik_romantable.txt) を開き、名前を付けて保存する
 2. Google日本語入力のプロパティを開き、 一般タブ -> キー設定 -> ローマ字テーブル -> 編集 -> 編集 -> インポート... を選択する
 3. さきほどダウンロードした azik_romantable.txt を選択する
 
