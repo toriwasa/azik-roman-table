@@ -648,8 +648,12 @@ lyq	ゃい
 lyh	ゅう
 lyp	ょう
 
+wf	わい
+sf	さい
+ss	せい
 zc	ざ
 zv	ざい
+zf	ぜ
 zx	ぜい
 
 kt	こと
