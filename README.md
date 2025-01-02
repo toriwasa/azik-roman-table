@@ -2,7 +2,7 @@
 ## これは何？
 - カスタムローマ字配列の説明をする際の前提として、AZIKのローマ字テーブルを作る必要があったので作成したリポジトリです。
 - AZIKをGoogle日本語入力で実装するためのローマ字テーブルファイルが含まれています。
-- AZIKについては [AZIK総合解説書](https://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm) を参照してください。
+- AZIKについては [AZIK総合解説書(元サイト消失のためInternet Archive)](https://web.archive.org/web/20241217165614/http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm) を参照してください。
 
 ## 設定方法
 JIS配列キーボード + Google日本語入力IME向けです
