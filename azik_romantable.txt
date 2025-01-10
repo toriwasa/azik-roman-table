@@ -653,6 +653,16 @@ lyq	ゃい
 lyh	ゅう
 lyp	ょう
 
+kf	き
+jf	じゅ
+hf	ふ
+yf	ゆ
+mf	む
+nf	ぬ
+df	で
+cf	ちぇ
+pf	ぽん
+
 wf	わい
 sf	さい
 ss	せい
