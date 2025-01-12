@@ -211,6 +211,7 @@ lyo	ょ
 
 ;	っ
 q	ん
+nn	ん
 -	ー
 :	ー
 
@@ -248,7 +249,6 @@ td	てん
 tl	とん
 
 nz	なん
-nn	なん
 nk	にん
 nj	ぬん
 nd	ねん
@@ -566,6 +566,11 @@ nyh	にゅう
 nyw	にぇい
 nyp	にょう
 
+ngq	にゃい
+ngh	にゅう
+ngw	にぇい
+ngp	にょう
+
 hyq	ひゃい
 hyh	ひゅう
 hyw	ひぇい
@@ -647,6 +652,16 @@ lp	ぉう
 lyq	ゃい
 lyh	ゅう
 lyp	ょう
+
+kf	き
+jf	じゅ
+hf	ふ
+yf	ゆ
+mf	む
+nf	ぬ
+df	で
+cf	ちぇ
+pf	ぽん
 
 wf	わい
 sf	さい
