@@ -1,6 +1,7 @@
 # README
 ## これは何？
 - カスタムローマ字配列の説明をする際の前提として、AZIKのローマ字テーブルを作る必要があったので作成したリポジトリです。
+- カスタムローマ字配列について説明している記事は [AZIKから始めるローマ字入力のカスタマイズ](https://zenn.dev/toriwasa/articles/92dae87105368b) をご覧ください。
 - AZIKをGoogle日本語入力で実装するためのローマ字テーブルファイルが含まれています。
 - AZIKについては [AZIK総合解説書(元サイト消失のためInternet Archive)](https://web.archive.org/web/20241217165614/http://hp.vector.co.jp/authors/VA002116/azik/azikinfo.htm) を参照してください。
 
