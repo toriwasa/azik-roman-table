@@ -208,6 +208,7 @@ lo	ぉ
 lya	ゃ
 lyu	ゅ
 lyo	ょ
+lwa	ゎ
 
 ;	っ
 q	ん
@@ -467,6 +468,9 @@ lyn	ゃん
 lyj	ゅん
 lyl	ょん
 
+lwaz	ゎん
+lwan	ゎん
+
 kq	かい
 kh	くう
 kw	けい
@@ -652,6 +656,8 @@ lp	ぉう
 lyq	ゃい
 lyh	ゅう
 lyp	ょう
+
+lwaq	ゎい
 
 kf	き
 jf	じゅ
