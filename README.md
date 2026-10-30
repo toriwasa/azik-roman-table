@@ -28,3 +28,21 @@ JIS配列キーボード + Google日本語入力IME向けです
 
 上記の順序でローマ字テーブルが記載されています。
 カスタマイズしたいときに参考にしてください。
+
+## License
+
+本リポジトリは、木村清氏が考案した日本語入力方式「AZIK」の公開仕様をもとに、Google日本語入力用のローマ字テーブルを作成したものです。
+
+本リポジトリの作成者が権利を有する部分については、[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) を適用します。ライセンス全文は [LICENSE](LICENSE) を参照してください（[公式日本語訳](https://creativecommons.org/publicdomain/zero/1.0/legalcode.ja)）。
+
+作成者は、当該部分の利用・改変・再配布について制限を設ける意図はありません。商用・非商用を問わず自由にご利用いただけます。クレジット表記も要求しません。
+
+なお、AZIKの入力方式そのものや原典に関する第三者の権利について、本ライセンスによって権利を主張したり、利用を許諾したりするものではありません。
+
+### Original specification
+
+- **考案者：** 木村清氏
+- **入力方式：** AZIK
+- **原典：** [AZIK総合解説書](https://note.com/actbemu/n/n74f1c04c9a2e)
+
+本リポジトリはAZIKの公式配布物ではありません。
